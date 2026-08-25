@@ -1,11 +1,16 @@
 ### Hello there 👋
 
-**I make computers do things. Occasionally useful things.**
+<img align="right" width="280" src="./giphy.gif">
 
-I'm a software developer interested in building complete products, from the interface to the backend and everything in between. I also spend time working on machine learning and research.
+I'm a software developer interested in building complete products, from the interface to the backend and everything in between.
 
-<br>
+* ⚙️ Daily drivers: `.cs`, `.ts`, `.py`, `.sql`
+* 🧰 Building with `.NET`, `React`, `PostgreSQL`, and `Docker`, and shipping to `Azure` and `Vercel`
+* 🔬 I also spend time on machine learning, research, and various experiments
+* 💻 I make computers do things. Occasionally useful things.
+
+<br clear="right">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,vercel,git" />
+  <img width="400" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,git">
 </p>
