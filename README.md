@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vittorio777/vittorio777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# vittorio777
 
-Here are some ideas to get you started:
+**Software · Web · Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things, exploring ideas, and occasionally making something useful.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,git" />
+
+<br><br>
+
+`Full Stack` · `Machine Learning` · `Cloud` · `Data`
+
+</div>
+
+---
+
+Most of my work lives in the repositories below.
+
+I mainly work with **C# / .NET**, **TypeScript / React**, and **Python**, with an interest in building complete systems from application development to deployment.
