@@ -1,4 +1,4 @@
-## Hello there 👋
+Hello there 👋
 
 <img align="right" width="300" src="./giphy.gif">
 
@@ -12,6 +12,6 @@ from the interface to the backend and everything in between.
 
 <br>
 
-<img height="16" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,git">
+<img height="20" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,git">
 
 <br clear="right">
