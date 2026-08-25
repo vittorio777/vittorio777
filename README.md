@@ -1,17 +1,23 @@
-# Hello there 👋
+<div align="center">
 
-<img align="right" width="280" src="./giphy.gif">
+# Hello there 👋
 
 I'm a software developer interested in building complete products,  
 from the interface to the backend and everything in between.
 
-- ⚙️ Daily drivers: `.cs` `.ts` `.py` `.sql`
-- 🧰 Building with .NET, React, PostgreSQL, and Docker
-- 🔬 I also spend time on machine learning, research, and various experiments
-- 💻 I make computers do things. Occasionally useful things.
+<img width="280" src="./giphy.gif">
 
 <br>
 
-<img height="18" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,python,pytorch,postgres,docker,azure,git">
+⚙️ Daily drivers: `.cs` `.ts` `.py` `.sql`  
+🧰 Building with `.NET`, `React`, `PostgreSQL`, and `Docker`  
+🔬 I also spend time on machine learning, research, and various experiments  
+💻 I make computers do things. Occasionally useful things.
 
-<br clear="right">
+<br>
+
+### Check out what I've been working on lately
+
+[**RoadSense NZ**](https://vittorio777.github.io/RoadSenseNZ/) · [**MiniVault**](https://vittorio777.github.io/MiniVault/)
+
+</div>
